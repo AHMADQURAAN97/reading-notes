@@ -16,5 +16,5 @@ You can add in ***Markdown*** many things like :
 - Links
 - Lists
 - Headers
-
+![syntax](https://coderwall-assets-0.s3.amazonaws.com/uploads/picture/file/1932/gs.png)
 You can read more about Markdown Syntax [here](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
