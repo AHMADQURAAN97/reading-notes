@@ -19,3 +19,4 @@ And the differences between ***growth mindset*** and ***fixed mindset*** when fa
 - Replace the word *failing* with the word *learning*
 - Celebrate growth with others.
 
+![MINDSET](images.png)
