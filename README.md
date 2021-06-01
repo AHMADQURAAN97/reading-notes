@@ -3,5 +3,5 @@
 
 Topic          | Link
 ---------------|-----
-Growth Mindest | [Groth mindest](https://ahmadquraan97.github.io/reading-notes/)
-GitHub         |[GitHub](https://ahmadquraan97.github.io/read001/) 
+Growth Mindest | [Groth mindest](https://ahmadquraan97.github.io/reading-notes/lab01)
+GitHub         |[GitHub](https://ahmadquraan97.github.io/reading-notes/read01) 
