@@ -11,3 +11,5 @@ CSS is a rule-based language — you define rules specifying groups of styles th
 - **External CSS** : external css file we have to link it to our html
 - **Internal CSS** :An internal style sheet may be used if one single HTML page has a unique style.
 - **Inline CSS** :use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
+
+![css](pppp.jpg)
