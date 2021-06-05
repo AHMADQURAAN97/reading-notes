@@ -2,6 +2,8 @@
 
 Loops offer a quick and easy way to do something repeatedly. This chapter of the JavaScript Guide introduces the different iteration statements available to JavaScript.
 
+![vc](mn.jpg)
+
 **The statements for loops provided in JavaScript** :
 
 1. *for statement* :A for loop repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop.
