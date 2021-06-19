@@ -12,7 +12,6 @@ read03         |[read03](https://ahmadquraan97.github.io/reading-notes/read03)
 read04         |[read04](https://ahmadquraan97.github.io/reading-notes/read04)
 read06         |[read06](https://ahmadquraan97.github.io/reading-notes/read06)
 read07         |[read07](https://ahmadquraan97.github.io/reading-notes/read07)
-<<<<<<< HEAD
 read08         | [read08](https://ahmadquraan97.github.io/reading-notes/read08)
 
 
@@ -21,8 +20,5 @@ read08         | [read08](https://ahmadquraan97.github.io/reading-notes/read08)
 
 Topic       | Link
 ------------|-----
-            |    
-            |
-=======
-read08         | [read08](https://ahmadquraan97.github.io/reading-notes/read08)
->>>>>>> 7614ba9ba3c08943590062500255d4397764fc18
+Topic       |  Link  
+Topic       |  Link
