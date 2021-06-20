@@ -18,7 +18,7 @@ read08         | [read08](https://ahmadquraan97.github.io/reading-notes/read08)
 
 ## Code 201 Reading Notes
 
-Topic       | Link
-------------|-----
-Topic       |  Link  
-Topic       |  Link
+Topic             | Link
+------------------|-----
+read01 / class001 |  [read01](class001.md)
+read02 / class002 |  [read02](class002.md)
