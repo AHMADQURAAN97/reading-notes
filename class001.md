@@ -1,4 +1,12 @@
 
+## How People Access the Web ?
+
+- Browsers
+- Web Servers
+- Screen readers
+- Devices
+
+
 
 ## How Websites Are Created ?
 
@@ -59,3 +67,106 @@ of the book.
 elements to contain different sections of the page, such as latest news, top products, and newsletter signup.
   
   ![articale](articale.png)
+
+  ### Body, Head & Title
+
+  **body** :You met the <body> element 
+in the first example we created. 
+Everything inside this element is 
+shown inside the main browser 
+window.
+
+**Head** :Before the <body> element you 
+will often see a <head> element. 
+This contains information 
+about the page (rather than 
+information that is shown within 
+the main part of the browser 
+window that is highlighted in 
+blue on the opposite page). 
+You will usually find a < title >
+element inside the < head >
+element
+
+**title** :
+The contents of the < title >
+element are either shown in the 
+top of the browser, above where 
+you usually type in the URL of 
+the page you want to visit, or 
+on the tab for that page (if your 
+browser uses tabs to allow you 
+to view multiple pages at the 
+same time).
+
+![body](body.png)
+
+### Extra Markup
+
+**DOCTYPEs** : Because there have been 
+several versions of HTML, each 
+web page should begin with a 
+DOCTYPE declaration to tell a 
+browser which version of HTML 
+the page is using (although 
+browsers usually display the 
+page even if it is not included). 
+We will therefore be including 
+one in each example for the rest 
+of the book. 
+
+![doc](doccc.png)
+
+**Comments in HTML** : f you want to add a comment 
+to your code that will not be 
+visible in the user's browser, you 
+can add the text between these 
+characters:
+<!-- comment goes here -->
+
+**ID Attribute**:Every HTML element can carry 
+the id attribute. It is used to 
+uniquely identify that element 
+from other elements on the 
+page. Its value should start with 
+a letter or an underscore (not a 
+number or any other character).
+It is important that no two 
+elements on the same page 
+have the same value for their id
+attributes (otherwise the value is 
+no longer unique)
+
+***Class Attribute*** :Every HTML element can 
+also carry a class attribute. 
+Sometimes, rather than uniquely 
+identifying one element within 
+a document, you will want a 
+way to identify several elements 
+as being different from the 
+other elements on the page. 
+For example, you might have 
+some paragraphs of text that 
+contain information that is more 
+important than others and want 
+to distinguish these elements, or 
+you might want to differentiate 
+between links that point to other 
+pages on your own site and links 
+that point to external sites. 
+![f](sssa.png)
+
+### HTML5 Layout
+
+HTML5 is introducing a new set of 
+elements that help define the structure of 
+a page
+
+- *Traditional HTML Layouts* : For a long time, web page authors used <div> elements to group 
+together related elements on the page (such as the elements that form a header, an article, footer or sidebar). Authors used class or id attributes to indicate the role of the <div> element in the structure of the page
+![ase](ase.png)
+
+*New Html5 Layout Elements* :HTML5 introduces a new set of elements that allow you to divide up the 
+parts of a page. The names of these elements indicate the kind of content 
+you will find in them. They are still subject to change, but that has not 
+stopped many web page authors using them already.
