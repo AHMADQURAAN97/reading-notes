@@ -170,3 +170,50 @@ together related elements on the page (such as the elements that form a header, 
 parts of a page. The names of these elements indicate the kind of content 
 you will find in them. They are still subject to change, but that has not 
 stopped many web page authors using them already.
+
+The `<header>` and `<footer>`
+elements can be used for:
+- The main header or footer 
+that appears at the top or 
+bottom of every page on the 
+site.
+- A header or footer for an 
+individual article or 
+section within the page and to put list.
+
+## NAVIGATION `<nav>` 
+
+The `<nav>` element is used to contain the major navigational blocks on the site such as the 
+primary site navigation.At the time of writing, some of the developers that were already using HTML5 decided to use the < nav > element for the links that appear at the bottom of every page (links to things like privacy policy, terms and conditions and accessibility information). Whether this will be widely adopted is still yet to be seen.
+
+### Articles `<article>`
+
+The < article > element acts as a container for any section of a page that could stand alone and potentially be syndicated.This could be an individual article or blog entry, a comment or forum post, or any other independent piece of content
+
+### Sections `<section>`
+
+The< section > element groups related content together, and typically each section would have its own heading.For example, on a homepage there may be several < section >elements to contain different sections of the page, such as latest news, top products, and newsletter signup.
+
+### Sectioning Elements `<div>`
+
+It may seem strange to follow these new elements by revisiting the < div > element again. (After all, the new elements are often going to be used in its place.)However, the < div > element will remain an important way to group together related elements,because you should not be using these new elements that you have just met for purposes other than those explicitly stated.
+
+![v](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWmi3MaC1CTEQg-1Hw3ervFRC94Q-Km2YKZQ&usqp=CAU)
+
+#### Wireframe
+
+ is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
+
+ ![ff](https://i.pinimg.com/originals/c3/de/24/c3de24c8c79004b349f12052f76d70b0.png)
+
+
+ ## JAVASCRIPT
+ 
+ **A script** is a series of instructions that computer can follow to achieve a goal. Start with the big picture of what you want to achieve, and break that down into smaller steps. 
+ ![V](https://i.stack.imgur.com/AZUmQ.jpg)
+
+ **HOW A BROWSER SEES A WEB PAGE**
+ In order to understand how you can change the content of an HTML page using JavaScript, you need to know how a browser interprets the HTML code and applies styling to it.
+ - RECEIVE A PAGE AS HTML CODE 
+ -  CREATE A MODEL OF THE PAGE AND STORE IT IN MEMORY
+ - : USE A RENDERING ENGINE TO SHOW THE PAGE ON SCREEN 
