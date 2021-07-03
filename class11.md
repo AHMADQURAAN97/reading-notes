@@ -61,13 +61,13 @@ In every page of your website there are seven key places where keywords (the wor
 6. Image Alt Text
 7. Page Descriptions
 
-##How to Identify Keywords and Phrases?
+## How to Identify Keywords and Phrases?
 Determining which keywords to use on your site can be one of the hardest tasks when you start to think about SEO. Here are six steps that will help you identify the right keywords and phrases for your site.
 - Brainstorm
 - Organize
 - Research
 
-####Flash, Video & Audio
+#### Flash, Video & Audio
 
 ***How Flash Works?*** 
 Whether you are creating an animation or a media player in Flash, the files you put on your website are referred to as Flash movies. If you want to create your own Flash movie, you need to purchase the Flash authoring environment from Adobe.
