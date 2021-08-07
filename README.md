@@ -28,10 +28,10 @@ read05 / class005 |  [read05](class005.md)
 
 ## Code 301 Reading Notes - Intermediate Software Development
 
-Topic             | Link
-------------------|-----
-read01 / 00000000 |  [read01](00000)
-read02 / class002 |  [read02](00000)
-read03 / class003 |  [read03](0000)
-read04 / class004 |  [read04](0000)
-read05 / class005 |  [read05](0000)
+Topic                | Link
+---------------------|-----
+read01 / class01-301 |  [read01](class01-301.md)
+read02 / class02-301 |  [read02](class02-301.md)
+read03 / class003    |  [read03](0000)
+read04 / class004    |  [read04](0000)
+read05 / class005    |  [read05](0000)
