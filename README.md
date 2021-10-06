@@ -35,3 +35,12 @@ read02 / class02-301 |  [read02](class02-301.md)
 read03 / class003    |  [read03](0000)
 read04 / class004    |  [read04](0000)
 read05 / class005    |  [read05](0000)
+
+## Code 401 Reading Notes - Advanced Software Development
+Topic                | Link
+---------------------|-----
+read01 / class01-401 |  [read01]()
+read02 / class02-401 | [read02]()
+read03 / class003    |  [read03](0000)
+read04 / class004    |  [read04](0000)
+read05 / class005    |  [read05](0000)
